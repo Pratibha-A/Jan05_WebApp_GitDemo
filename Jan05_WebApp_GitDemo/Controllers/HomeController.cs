@@ -15,7 +15,7 @@ namespace Jan05_WebApp_GitDemo.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Hello from Feature 2 branch!!";
 
             return View();
         }
